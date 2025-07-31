@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://professornaveengenhao.github.ioblank/sitemap.xml
+Sitemap: https://professornaveengenhao.github.io/sitemap.xml

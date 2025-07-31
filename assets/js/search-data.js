@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "post-primeirodia",
+        },{id: "post-exmperiência-do-primeiro-dia",
         
-          title: "Primeirodia",
+          title: "Exmperiência do primeiro dia",
         
-        description: "",
+        description: "this is what included plotly.js code could look like",
         section: "Posts",
         handler: () => {
           

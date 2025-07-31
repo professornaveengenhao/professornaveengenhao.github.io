@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/al-folio/people/";
           },
-        },{id: "post-exmperiência-do-primeiro-dia",
+        },{id: "post-exmperiência-do-segundo-dia",
+        
+          title: "Exmperiência do segundo dia",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/al-folio/blog/2025/segundodia/";
+          
+        },
+      },{id: "post-exmperiência-do-primeiro-dia",
         
           title: "Exmperiência do primeiro dia",
         
